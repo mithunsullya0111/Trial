@@ -1,13 +1,19 @@
 jsdjkns
 nvi
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> master
 
 Hello
 trying with second commit
 
 trying third commit
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 072cbe3... second commit
+=======
+>>>>>>> master
 =======
 >>>>>>> master
