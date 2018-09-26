@@ -1,0 +1,13 @@
+jsdjkns
+nvi
+<<<<<<< HEAD
+
+Hello
+trying with second commit
+
+trying third commit
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 072cbe3... second commit
+=======
+>>>>>>> master
