@@ -1,7 +1,10 @@
 jsdjkns
 nvi
+<<<<<<< HEAD
 
 Hello
 trying with second commit
 
 trying third commit
+=======
+>>>>>>> parent of 072cbe3... second commit
